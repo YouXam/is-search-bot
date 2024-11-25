@@ -9,7 +9,9 @@
       "ESNext"
     ],
     "types": [
-        "@cloudflare/workers-types/2023-07-01"
+        "@cloudflare/workers-types/2023-07-01",
+        "@cloudflare/workers-types/experimental",
+        "@cloudflare/vitest-pool-workers"
     ],
     "jsx": "react-jsx",
     "jsxImportSource": "hono/jsx"

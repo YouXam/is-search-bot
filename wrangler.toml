@@ -2,6 +2,7 @@
 name = "is-search-bot"
 main = "src/index.ts"
 compatibility_date = "2023-05-18"
+compatibility_flags = [ "nodejs_compat" ]
 
 # Workers Logs
 # Docs: https://developers.cloudflare.com/workers/observability/logs/workers-logs/
